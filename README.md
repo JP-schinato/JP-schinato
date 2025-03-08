@@ -1,5 +1,3 @@
-# JoaoSchinato
-
 <br clear="both">
 
 <h1 align="center">Sou João Pedro Schinato sou de Jacareí interior de SP. Curiosidades: Amo fazer academia e escutar Belo ;)</h1>
