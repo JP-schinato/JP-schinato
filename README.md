@@ -43,9 +43,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JP-schinato/JP-schinato/output/snake.svg" alt="Snake animation" />
-
-###
