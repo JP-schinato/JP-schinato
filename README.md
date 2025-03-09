@@ -17,7 +17,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/pt-BR/view/kratos-standing-aura-lightning-god-of-war-gif-11577634319137475718"  />
+<img align="right" height="150" href="https://tenor.com/pt-BR/view/kratos-standing-aura-lightning-god-of-war-gif-11577634319137475718"  />
 
 ###
 
