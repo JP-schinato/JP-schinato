@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h2 align="center">.Estudo SQL | Phyton | Pandas | Java | entre outros</h2>
+<h2 align="center">| SQL | MYSQL | Phyton | Pandas | EXCEL | POWER BI |</h2>
 
 ###
 
