@@ -1,12 +1,12 @@
 <br clear="both">
 
-<h1 align="center">Sou João Pedro Schinato sou de Jacareí interior de SP. Curiosidades: Amo fazer academia e escutar Belo ;)</h1>
+<h1 align="center">DATA ANALYST !</h1>
 
 ###
 
 <br clear="both">
 
-<h2 align="center">.Estudo SQL | Phyton | Pandas | Java | entre outros</h2>
+<h2 align="center">| PHYTON | MYSQL | JUPYTER NOTEBOOKS | PANDAS | POWER BI | EXCEL |</h2>
 
 ###
 
