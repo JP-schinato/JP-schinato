@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h2 align="center">| PHYTON | MYSQL | JUPYTER NOTEBOOKS | PANDAS | POWER BI | EXCEL |</h2>
+<h2 align="center">| PYTHON | MYSQL | JUPYTER NOTEBOOKS | PANDAS | POWER BI | EXCEL |</h2>
 
 ###
 
