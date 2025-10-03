@@ -3,7 +3,7 @@
 ###
 
 ```python
-  my_profile = [
+my_profile = [
   'name': 'João Pedro Silva Schinato',
   'job': 'Data Analyst',
   'hoby': 'gym',
